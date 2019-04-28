@@ -1,7 +1,10 @@
 # Nightmare-Realm
 
 ## Description 
-Game, written in python 3.
+Game, written in python 3, using pygame library.
+
+## Rules
+All rules are available in game.
 
 ## Launch
 To launch, run realm.exe
